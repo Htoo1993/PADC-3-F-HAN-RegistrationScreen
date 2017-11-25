@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Hello-Android-PADC</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="lbl_click_me">Click Me!</string>
+
+    <string name="btn_forgot_password"><i><u>Forgot Password</u></i></string>
+
+    <string name="btn_new_seller_register"><i><u>New Seller ? Register</u></i></string>
+
+    <string name="btn_to_login"><i><u>To Login</u></i></string>
+</resources>
